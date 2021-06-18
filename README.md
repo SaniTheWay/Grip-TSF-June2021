@@ -16,10 +16,5 @@
 *  Data can be found at http://bit.ly/w-data
 *  What will be predicted score if a student studies for 9.25 hrs/ day?
 
-
-
-
-
-
-
-
+Note: ❗❗
+> It may possible that the code will not show up in one go. So, kindly reload it again.
